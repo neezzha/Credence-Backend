@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/741-rate-limit-header-tiers",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/741-rate-limit-header-tiers": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/741-rate-limit-header-tiers",
+    "origin"
+  ]
+}
